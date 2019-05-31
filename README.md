@@ -1,3 +1,25 @@
+# Overview
+
+```
+It is an startup website template.
+```
+
+# Platform
+
+```
+->HTML
+->CSS
+->Bootstrap
+->Javascript
+```
+
+# Features
+* Fixed Navigation Bar
+* Bootstrap Icons
+* Bootstrap Columns
+* Register Form
+
+
 ![Screenshot (69)](https://user-images.githubusercontent.com/35001230/58722628-869a5c00-83f5-11e9-8799-7c0cf6df9c8b.png)
 ![Screenshot (70)](https://user-images.githubusercontent.com/35001230/58722731-d5e08c80-83f5-11e9-831d-d5448045be70.png)
 ![Screenshot (71)](https://user-images.githubusercontent.com/35001230/58722888-438cb880-83f6-11e9-886e-794b4b1fb156.png)
